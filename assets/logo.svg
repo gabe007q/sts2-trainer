@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" rx="18" fill="#0d1117"/>
+  <path d="M80 210 L96 176 L88 170 L104 140 L94 132 L112 104 L100 96 L122 64 L134 70 L148 40 L158 46 L144 78 L152 84 L138 112 L148 120 L132 148 L142 156 L124 186 L132 192 L116 222 Z" fill="#c9d1d9" opacity="0.92"/>
+  <path d="M80 210 L96 176 L88 170 L104 140 L94 132 L112 104 L100 96 L122 64 L134 70 L148 40 L158 46 L144 78 L152 84 L138 112 L148 120 L132 148 L142 156 L124 186 L132 192 L116 222 Z" fill="none" stroke="#0d1117" stroke-width="3" stroke-linejoin="round" opacity="0.55"/>
+  <path d="M60 196 L76 162 L68 156 L84 126 L74 118 L92 90 L80 82 L102 50 L114 56 L128 26 L138 32 L124 64 L132 70 L118 98 L128 106 L112 134 L122 142 L104 172 L112 178 L96 208 Z" fill="#0d1117" opacity="0.88"/>
+  <path d="M72 204 L88 170 L80 164 L96 134 L86 126 L104 98 L92 90 L114 58 L126 64 L140 34 L150 40 L136 72 L144 78 L130 106 L140 114 L124 142 L134 150 L116 180 L124 186 L108 216 Z" fill="none" stroke="#39d353" stroke-width="2.5" stroke-linejoin="round" opacity="0.65"/>
+  <polygon points="40,218 70,200 76,206 46,224" fill="#f0b429"/>
+  <polygon points="70,200 76,206 90,188 84,182" fill="#f0b429"/>
+  <polygon points="90,188 84,182 96,166 102,172" fill="#f0b429"/>
+  <path d="M40 218 L54 210 L58 214 L44 222 Z" fill="#c9d1d9" opacity="0.8"/>
+  <path d="M84 182 L90 188 L96 180 L94 176 L88 178 Z" fill="#39d353"/>
+  <circle cx="148" cy="40" r="4" fill="#39d353"/>
+  <circle cx="148" cy="40" r="8" fill="none" stroke="#39d353" stroke-width="1.5" opacity="0.5"/>
+  <path d="M156 36 L168 28 L172 34 L160 42 Z" fill="#39d353" opacity="0.9"/>
+  <path d="M170 26 L178 22 L182 28 L174 32 Z" fill="#f0b429" opacity="0.85"/>
+  <path d="M60 60 L64 52 L70 58 L66 66 Z" fill="#39d353" opacity="0.6"/>
+  <path d="M190 180 L196 172 L202 180 L196 188 Z" fill="#39d353" opacity="0.45"/>
+  <path d="M36 100 L42 92 L48 100 L42 108 Z" fill="#f0b429" opacity="0.5"/>
+  <rect x="176" y="208" width="58" height="10" rx="3" fill="#0d1117" stroke="#c9d1d9" stroke-width="1.5" opacity="0.85"/>
+  <text x="180" y="216" font-family="monospace" font-size="8" fill="#39d353" letter-spacing="1">STS2</text>
+  <text x="206" y="216" font-family="monospace" font-size="8" fill="#f0b429" letter-spacing="0.5">TRNR</text>
+</svg>
